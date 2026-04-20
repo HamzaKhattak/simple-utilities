@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.windows": {
+        "UV_PROJECT_ENVIRONMENT": "C:\\venvsEtc\\.combine-vids"
+    }
+}
